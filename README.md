@@ -66,7 +66,6 @@ to be added.
 - [`front-ports`](#front-ports-documentation)
 - [`rear-ports`](#rear-ports-documentation)
 - [`device-bays`](#device-bays-documentation)
-- [`inventory-items`](#inventory-items-documentation)
 
 The available fields for each type of component are listed below.
 
