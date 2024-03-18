@@ -58,15 +58,15 @@ For further detail on these attributes and those listed below, please reference 
 Valid component types are listed below. Each type of component must declare a list of the individual component templates
 to be added.
 
-- [`console-ports`](#console-ports)
-- [`console-server-ports`](#console-server-ports)
-- [`power-ports`](#power-ports)
-- [`power-outlets`](#power-outlets)
-- [`interfaces`](#interfaces)
-- [`front-ports`](#front-ports)
-- [`rear-ports`](#rear-ports)
-- [`device-bays`](#device-bays)
-- [`inventory-items`](#inventory-items)
+- [`console-ports`](#console-ports-documentation)
+- [`console-server-ports`](#console-server-ports-documentation)
+- [`power-ports`](#power-ports-documentation)
+- [`power-outlets`](#power-outlets-documentation)
+- [`interfaces`](#interfaces-documentation)
+- [`front-ports`](#front-ports-documentation)
+- [`rear-ports`](#rear-ports-documentation)
+- [`device-bays`](#device-bays-documentation)
+- [`inventory-items`](#inventory-items-documentation)
 
 The available fields for each type of component are listed below.
 
