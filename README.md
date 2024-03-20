@@ -62,7 +62,7 @@ The following fields may **optionally** be declared:
 - `comments`: A string field which allows for comments to be added to the device. (**Default: None**)
   - Type: String
 
-> :test_tube: **Example**: `comments: This is a comment that will appear on all Nautobot devices of this type`
+> :test_tube: **Example**: `comments: This is a comment that will appear on newly created Nautobot devices of this type`
 
 For further detail on these attributes and those listed below, please reference the
 [schema definitions](schema/) and the [Component Definitions](#component-definitions) below.
