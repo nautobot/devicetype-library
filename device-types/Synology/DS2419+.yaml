@@ -1,7 +1,6 @@
 ---
 manufacturer: Synology
 model: DS2419+
-slug: synology-ds2419-plus
 part_number: DS2419+
 u_height: 4
 airflow: passive

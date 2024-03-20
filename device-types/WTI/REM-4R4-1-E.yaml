@@ -1,7 +1,6 @@
 ---
 manufacturer: WTI
 model: REM-4R4-1-E
-slug: wti-rem-4r4-1-e
 airflow: passive
 part_number: REM-4R4-1-E
 is_full_depth: false

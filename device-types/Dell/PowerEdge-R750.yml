@@ -1,7 +1,6 @@
 ---
 manufacturer: Dell
 model: PowerEdge R750
-slug: dell-poweredge-r750
 u_height: 2
 is_full_depth: true
 comments: '[Technical Guide](https://i.dell.com/sites/csdocuments/Product_Docs/en/poweredge-r750-technical-guide.pdf)'

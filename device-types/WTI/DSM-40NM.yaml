@@ -1,7 +1,6 @@
 ---
 manufacturer: WTI
 model: DSM-40NM
-slug: wti-dsm-40nm
 airflow: passive
 part_number: DSM-40NM
 is_full_depth: false

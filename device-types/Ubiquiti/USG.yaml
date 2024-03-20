@@ -1,7 +1,6 @@
 ---
 manufacturer: Ubiquiti
 model: USG
-slug: ubiquiti-usg
 u_height: 1
 is_full_depth: false
 comments: '[UniFi Security Gateway - Enterprise Gateway Router with Gigabit Ethernet](https://www.ui.com/unifi-routing/usg/)'

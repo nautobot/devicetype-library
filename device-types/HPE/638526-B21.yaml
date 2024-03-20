@@ -3,7 +3,6 @@ manufacturer: HPE
 model: HPE Virtual Connect Flex-10/10D Module for c-Class BladeSystem
 comments: '[QuickSpecs](https://www.hpe.com/psnow/doc/c04154336)'
 part_number: 638526-B21
-slug: hpe-638526-b21
 subdevice_role: child
 u_height: 0
 interfaces:

@@ -1,7 +1,6 @@
 ---
 manufacturer: MikroTik
 model: RB2011iL-RM
-slug: mikrotik-rb2011il-rm
 is_full_depth: false
 u_height: 1
 airflow: passive

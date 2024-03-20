@@ -1,7 +1,6 @@
 ---
 manufacturer: WatchGuard
 model: Firebox M370
-slug: watchguard-firebox-m370
 u_height: 1.0
 is_full_depth: false
 airflow: front-to-rear

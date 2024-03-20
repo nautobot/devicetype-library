@@ -1,7 +1,6 @@
 ---
 manufacturer: QNAP
 model: TS-EC1280U
-slug: qnap-ts-ec1280u
 part_number: TS-EC1280U
 u_height: 2
 airflow: front-to-rear

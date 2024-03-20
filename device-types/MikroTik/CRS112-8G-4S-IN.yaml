@@ -1,7 +1,6 @@
 ---
 manufacturer: MikroTik
 model: CRS112-8G-4S-IN
-slug: mikrotik-crs112-8g-4s-in
 is_full_depth: false
 u_height: 1
 console-ports:

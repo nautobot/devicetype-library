@@ -1,7 +1,6 @@
 ---
 manufacturer: IBM
 model: BladeCenter H
-slug: ibm-bladecenter-h
 u_height: 9
 is_full_depth: true
 subdevice_role: parent

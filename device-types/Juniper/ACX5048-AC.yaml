@@ -1,7 +1,6 @@
 ---
 manufacturer: Juniper
 model: ACX5048-AC
-slug: juniper-acx5048-ac
 part_number: ACX5048-AC
 airflow: front-to-rear
 u_height: 1

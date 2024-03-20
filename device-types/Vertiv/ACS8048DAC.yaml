@@ -1,7 +1,6 @@
 ---
 manufacturer: Vertiv
 model: ACS8048DAC
-slug: vertiv-acs8048dac
 u_height: 1
 is_full_depth: false
 console-ports:

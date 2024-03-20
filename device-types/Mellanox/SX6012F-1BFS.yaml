@@ -1,7 +1,6 @@
 ---
 manufacturer: Mellanox
 model: SX6012F-1BFS
-slug: mellanox-sx6012f-1bfs
 part_number: MSX6012F-1BFS
 airflow: rear-to-front
 weight: 2.98

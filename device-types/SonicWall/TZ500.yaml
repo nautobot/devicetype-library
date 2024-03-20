@@ -1,7 +1,6 @@
 ---
 manufacturer: SonicWall
 model: TZ500
-slug: sonicwall-tz500
 part_number: TZ500
 u_height: 1
 is_full_depth: false

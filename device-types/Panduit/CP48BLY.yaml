@@ -1,7 +1,6 @@
 ---
 manufacturer: Panduit
 model: Mini-Com Shielded Patch Panel (48 Port, 2RU)
-slug: panduit-cp48bly
 part_number: CP48BLY
 u_height: 2
 is_full_depth: false

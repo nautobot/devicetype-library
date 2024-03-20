@@ -1,7 +1,6 @@
 ---
 manufacturer: FS
 model: IES3110-8TF-R
-slug: fs-ies3110-8tf-r
 u_height: 0.5
 is_full_depth: false
 comments: '[IES3110-8TF-R Web Datasheet](https://www.fs.com/products_support/preview.html?categories_id=4242&files_id=4628&model_name=IES3110-8TF-R,IES3110-8TFP-R&is_datasheet=1)'

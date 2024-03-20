@@ -1,7 +1,6 @@
 ---
 manufacturer: HPE
 model: Aruba 3810M 48G PoeP 1-slot
-slug: hpe-aruba-3810m-48g-poep-1-slot
 part_number: JL074A
 u_height: 1
 airflow: front-to-rear

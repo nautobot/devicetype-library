@@ -1,7 +1,6 @@
 ---
 manufacturer: WTI
 model: DSM-24NM-E
-slug: wti-dsm-24nm-e
 airflow: passive
 part_number: DSM-24NM-E
 is_full_depth: false

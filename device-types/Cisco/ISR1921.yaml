@@ -2,7 +2,6 @@
 manufacturer: Cisco
 model: ISR1921
 part_number: ISR1921/K9
-slug: cisco-isr1921
 u_height: 1
 is_full_depth: true
 interfaces:

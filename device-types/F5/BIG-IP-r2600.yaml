@@ -1,7 +1,6 @@
 ---
 manufacturer: F5
 model: BIG-IP r2600
-slug: f5-big-ip-r2600
 part_number: r2600
 u_height: 1
 is_full_depth: true

@@ -1,7 +1,6 @@
 ---
 manufacturer: Zyxel
 model: XGS1250-12
-slug: zyxel-xgs1250-12
 u_height: 0.0
 is_full_depth: false
 airflow: side-to-rear

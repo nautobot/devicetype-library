@@ -2,7 +2,6 @@
 manufacturer: Cisco
 model: ISR1841
 part_number: ISR1841/K9
-slug: cisco-isr1841
 u_height: 1
 is_full_depth: false
 interfaces:

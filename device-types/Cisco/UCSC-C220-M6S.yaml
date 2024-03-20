@@ -1,7 +1,6 @@
 ---
 manufacturer: Cisco
 model: UCS-C220-M6S
-slug: cisco-ucs-c220-m6s
 part_number: UCSC-C220-M6S
 u_height: 1
 airflow: front-to-rear
