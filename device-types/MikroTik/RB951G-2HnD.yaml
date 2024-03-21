@@ -1,7 +1,6 @@
 ---
 manufacturer: MikroTik
 model: RB951G-2HnD
-slug: mikrotik-rb951g-2hnd
 u_height: 0
 power-ports:
   - name: power8-30V

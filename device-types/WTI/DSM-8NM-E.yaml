@@ -1,7 +1,6 @@
 ---
 manufacturer: WTI
 model: DSM-8NM-E
-slug: wti-dsm-8nm-e
 airflow: passive
 part_number: DSM-8NM-E
 is_full_depth: false

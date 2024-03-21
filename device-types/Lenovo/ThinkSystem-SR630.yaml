@@ -1,7 +1,6 @@
 ---
 manufacturer: Lenovo
 model: ThinkSystem SR630
-slug: lenovo-thinksystem-sr630
 part_number: 7X02
 is_full_depth: true
 subdevice_role: parent

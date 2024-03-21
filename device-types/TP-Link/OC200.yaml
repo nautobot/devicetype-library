@@ -1,7 +1,6 @@
 ---
 manufacturer: TP-Link
 model: OC200
-slug: tp-link-oc200
 part_number: OC200
 comments: '[TP-Link OC200 Datasheet](https://www.tp-link.com/us/business-networking/omada-sdn-controller/oc200/#specifications)'
 is_full_depth: false

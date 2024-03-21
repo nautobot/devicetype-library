@@ -2,7 +2,6 @@
 manufacturer: Fortinet
 model: FortiGate 3200D
 part_number: FG-3200D
-slug: fortinet-fg-3200d
 is_full_depth: true
 u_height: 2
 airflow: front-to-rear

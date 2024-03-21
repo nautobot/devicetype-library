@@ -1,7 +1,6 @@
 ---
 manufacturer: Juniper
 model: EX2200-48T-4G
-slug: juniper-ex2200-48t-4g
 u_height: 1
 interfaces:
   - name: ge-0/0/0

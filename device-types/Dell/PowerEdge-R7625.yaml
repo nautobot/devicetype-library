@@ -1,7 +1,6 @@
 ---
 manufacturer: Dell
 model: PowerEdge R7625
-slug: dell-poweredge-r7625
 u_height: 2
 is_full_depth: true
 comments: '[Technical Guide](https://www.delltechnologies.com/asset/en-us/products/servers/technical-support/poweredge-r7625-technical-guide.pdf)'

@@ -1,7 +1,6 @@
 ---
 manufacturer: Netgear
 model: GS110EMX
-slug: netgear-gs110emx
 u_height: 1.0
 is_full_depth: false
 airflow: passive

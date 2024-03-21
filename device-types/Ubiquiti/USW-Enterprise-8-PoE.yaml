@@ -2,7 +2,6 @@
 manufacturer: Ubiquiti
 model: Switch Enterprise 8 PoE
 part_number: USW-Enterprise-8-PoE
-slug: ubiquiti-usw-enterprise-8-poe
 comments: '[Switch Enterprise 8 PoE Datasheet](https://dl.ui.com/ds/usw-enterprise-8-poe_ds)'
 u_height: 0
 is_full_depth: false

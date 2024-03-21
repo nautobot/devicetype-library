@@ -1,7 +1,6 @@
 ---
 manufacturer: Ubiquiti
 model: UniFi SmartPower RPS
-slug: ubiquiti-unifi-smartpower-rps
 airflow: front-to-rear
 part_number: USP-RPS
 comments: |

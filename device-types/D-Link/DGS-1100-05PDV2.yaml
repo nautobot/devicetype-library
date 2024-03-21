@@ -1,7 +1,6 @@
 ---
 manufacturer: D-Link
 model: DGS-1100-05PDV2
-slug: d-link-dgs-1100-05pdv2
 u_height: 0.0
 is_full_depth: false
 airflow: passive

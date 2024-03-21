@@ -1,7 +1,6 @@
 ---
 manufacturer: Vertiv
 model: ACS8032SAC
-slug: vertiv-acs8032sac
 u_height: 1
 is_full_depth: false
 console-ports:

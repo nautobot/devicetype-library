@@ -1,7 +1,6 @@
 ---
 manufacturer: QNAP
 model: TS-453D
-slug: qnap-ts-453d
 u_height: 0
 part_number: TS-453d
 airflow: side-to-rear

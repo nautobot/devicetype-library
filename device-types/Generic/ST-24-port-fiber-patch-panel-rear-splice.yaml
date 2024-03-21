@@ -1,7 +1,6 @@
 ---
 manufacturer: Generic
 model: ST-24-port Fiber Patch Panel Rear Splice
-slug: generic-st-24-port-fiber-patch-panel-rear-splice
 u_height: 1
 is_full_depth: true
 airflow: passive
@@ -155,7 +154,7 @@ rear-ports:
   - name: Port/17
     type: splice
     positions: 1
-  - name: Port/28
+  - name: Port/18
     type: splice
     positions: 1
   - name: Port/19

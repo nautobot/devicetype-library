@@ -1,7 +1,6 @@
 ---
 manufacturer: HPE
 model: Aruba MC 3200
-slug: hpe-aruba-mc-3200
 is_full_depth: false
 u_height: 1
 interfaces:

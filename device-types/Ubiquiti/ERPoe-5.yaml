@@ -1,7 +1,6 @@
 ---
 manufacturer: Ubiquiti
 model: EdgeRouter PoE 5-Port
-slug: ubiquiti-erpoe-5
 part_number: ERPoe-5
 u_height: 1
 is_full_depth: false

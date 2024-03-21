@@ -1,7 +1,6 @@
 ---
 manufacturer: HPE
 model: ProLiant DL580 Gen9
-slug: hpe-proliant-dl580-gen9
 u_height: 4
 is_full_depth: true
 console-ports:

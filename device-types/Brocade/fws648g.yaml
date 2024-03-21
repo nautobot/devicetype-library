@@ -1,7 +1,6 @@
 ---
 manufacturer: Brocade
 model: FastIron WS 648G
-slug: brocade-fws648g
 part_number: FWS648G
 is_full_depth: false
 u_height: 1

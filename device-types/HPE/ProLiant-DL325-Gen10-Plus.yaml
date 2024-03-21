@@ -1,7 +1,6 @@
 ---
 manufacturer: HPE
 model: ProLiant DL325 Gen10 Plus
-slug: hpe-proliant-dl325-gen10-plus
 u_height: 1
 is_full_depth: true
 console-ports:

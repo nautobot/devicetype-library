@@ -1,7 +1,6 @@
 ---
 manufacturer: Juniper
 model: MX104-PREMIUM
-slug: juniper-mx104-premium
 is_full_depth: false
 u_height: 4
 interfaces:

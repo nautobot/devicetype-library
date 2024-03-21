@@ -1,7 +1,6 @@
 ---
 manufacturer: Juniper
 model: QFX5210-128C
-slug: juniper-qfx5210-128c
 comments: '[Juniper QFX5200 Data Sheet](https://www.juniper.net/us/en/products-services/switching/qfx-series/qfx5200/)'
 u_height: 1
 interfaces:

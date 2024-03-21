@@ -1,7 +1,6 @@
 ---
 manufacturer: F5
 model: BIG-IP i5600
-slug: f5-big-ip-i5600
 part_number: i5600
 u_height: 1
 is_full_depth: true

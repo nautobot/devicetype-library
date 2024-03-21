@@ -1,7 +1,6 @@
 ---
 manufacturer: Dell
 model: PowerEdge R730xd
-slug: dell-poweredge-r730xd
 u_height: 2
 is_full_depth: true
 comments: '[Technical Guide](https://i.dell.com/sites/doccontent/shared-content/data-sheets/en/Documents/Dell-PowerEdge-R730-and-R730xd-Technical-Guide-v1-7.pdf)'

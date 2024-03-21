@@ -2,7 +2,6 @@
 manufacturer: Ubiquiti
 model: U6 Enterprise
 part_number: U6-Enterprise
-slug: ubiquiti-u6-enterprise
 u_height: 0
 is_full_depth: false
 airflow: passive

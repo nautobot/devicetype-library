@@ -1,7 +1,6 @@
 ---
 manufacturer: HPE
 model: Aruba MM-HW-10K
-slug: hpe-aruba-mm-hw-10k
 is_full_depth: true
 u_height: 1
 interfaces:

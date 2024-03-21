@@ -1,7 +1,6 @@
 ---
 manufacturer: HPE
 model: Aruba 1930 48G
-slug: hpe-aruba-1930-48g
 part_number: JL685A
 u_height: 1
 airflow: passive

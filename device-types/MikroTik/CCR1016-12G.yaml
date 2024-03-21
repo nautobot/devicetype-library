@@ -1,7 +1,6 @@
 ---
 manufacturer: MikroTik
 model: CCR1016-12G
-slug: mikrotik-ccr1016-12g
 is_full_depth: false
 u_height: 1
 interfaces:

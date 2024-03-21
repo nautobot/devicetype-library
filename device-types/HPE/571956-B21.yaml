@@ -3,7 +3,6 @@ manufacturer: HPE
 model: Virtual Connect FlexFabric 10Gb/24-Port Module for c-Class BladeSystem
 comments: '[QuickSpecs](https://www.hpe.com/psnow/doc/c04154400)'
 part_number: 571956-B21
-slug: hpe-571956-b21
 subdevice_role: child
 u_height: 0
 interfaces:

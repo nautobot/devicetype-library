@@ -1,7 +1,6 @@
 ---
 manufacturer: Juniper
 model: MX240
-slug: juniper-mx240
 comments: '[Juniper MX240 Data Sheet](https://www.juniper.net/us/en/products-services/routing/mx-series/mx240/)'
 u_height: 5
 is_full_depth: true

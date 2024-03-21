@@ -1,7 +1,6 @@
 ---
 manufacturer: MikroTik
 model: RB260GSP
-slug: mikrotik-rb260gsp
 power-ports:
   - name: PSU0
     type: dc-terminal

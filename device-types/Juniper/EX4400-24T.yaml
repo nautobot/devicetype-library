@@ -1,7 +1,6 @@
 ---
 manufacturer: Juniper
 model: EX4400-24T
-slug: juniper-ex4400-24t
 part_number: EX4400-24T
 u_height: 1
 airflow: front-to-rear

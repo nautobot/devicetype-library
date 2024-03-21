@@ -1,7 +1,6 @@
 ---
 manufacturer: Dell
 model: PowerEdge T430
-slug: dell-poweredge-t430
 u_height: 5
 is_full_depth: true
 console-ports:

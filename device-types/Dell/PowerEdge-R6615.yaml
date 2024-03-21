@@ -1,7 +1,6 @@
 ---
 manufacturer: Dell
 model: PowerEdge R6615
-slug: dell-poweredge-r6615
 u_height: 1
 is_full_depth: true
 comments: '[Technical Guide](https://www.delltechnologies.com/asset/en-us/products/servers/technical-support/poweredge-r6615-technical-guide.pdf)'

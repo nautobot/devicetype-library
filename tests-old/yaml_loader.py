@@ -19,9 +19,7 @@ class DecimalSafeConstructor(SafeConstructor):
         return decimal.Decimal(f"{value}")
 
 
-DecimalSafeConstructor.add_constructor(
-    "tag:yaml.org,2002:float", DecimalSafeConstructor.construct_yaml_float
-)
+DecimalSafeConstructor.add_constructor("tag:yaml.org,2002:float", DecimalSafeConstructor.construct_yaml_float)
 
 
 class DecimalSafeLoader(Reader, Scanner, Parser, Composer, DecimalSafeConstructor, Resolver):

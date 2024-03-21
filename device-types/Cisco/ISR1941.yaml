@@ -2,7 +2,6 @@
 manufacturer: Cisco
 model: ISR1941
 part_number: ISR1941/K9
-slug: cisco-isr1941
 u_height: 2
 is_full_depth: true
 interfaces:

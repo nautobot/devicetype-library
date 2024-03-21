@@ -1,7 +1,6 @@
 ---
 manufacturer: HPE
 model: ProCurve 6108
-slug: hpe-procurve-6108
 part_number: J4902A
 u_height: 1
 airflow: side-to-rear

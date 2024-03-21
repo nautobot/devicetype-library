@@ -1,7 +1,6 @@
 ---
 manufacturer: F5
 model: BIG-IP 2000
-slug: f5-big-ip-2000
 part_number: '2000'
 u_height: 1
 is_full_depth: true

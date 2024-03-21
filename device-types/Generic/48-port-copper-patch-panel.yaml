@@ -1,7 +1,6 @@
 ---
 manufacturer: Generic
 model: 48-port Copper Patch Panel
-slug: generic-48-port-copper-patch-panel
 u_height: 2
 airflow: passive
 is_powered: false

@@ -1,7 +1,6 @@
 ---
 manufacturer: Mellanox
 model: SX6036
-slug: mellanox-sx6036
 u_height: 1
 is_full_depth: true
 console-ports:

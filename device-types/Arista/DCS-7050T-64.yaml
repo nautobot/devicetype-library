@@ -1,7 +1,6 @@
 ---
 manufacturer: Arista
 model: DCS-7050T-64
-slug: arista-dcs-7050t-64
 is_full_depth: true
 u_height: 1
 interfaces:
