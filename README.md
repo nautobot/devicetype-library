@@ -162,3 +162,7 @@ Child devices are first-class Devices in their own right: That is, they are full
 - `name`: Name
 - `label`: Label (optional)
 - `description`: Description (optional)
+
+## Repository Forked from NetBox Community Device Type Library
+
+This repository is a fork of the [NetBox Device Type Library](https://github.com/netbox-community/devicetype-library/).
