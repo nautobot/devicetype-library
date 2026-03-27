@@ -9,7 +9,6 @@ weight: 22.30
 weight_unit: lb
 airflow: front-to-rear
 comments: '[Arista 7280E Data Sheet](https://people.ucsc.edu/~warner/Bufs/7280SE-Datasheet.pdf)'
-front_image: true
 rear_image: true
 console-ports:
   - name: Console

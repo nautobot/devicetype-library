@@ -4,6 +4,7 @@ model: DCS-7124SX
 slug: arista-dcs-7124sx
 part_number: DCS-7124SX
 u_height: 1
+front_image: true
 is_full_depth: false
 console-ports:
   - name: Console

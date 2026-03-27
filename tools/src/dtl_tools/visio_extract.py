@@ -99,7 +99,9 @@ def extract_images(vssx_path: Path, output_dir: Path, manufacturer_prefix: str =
 
             side = "rear" if m.is_rear else "front"
             ext = src.suffix
-            target_name = f"{manufacturer_prefix}-{clean_name.lower()}.{side}{ext}"
+            # Sanitize name: replace slashes and other problematic chars
+            safe_name = clean_name.lower().replace("/", "-").replace("*", "")
+            target_name = f"{manufacturer_prefix}-{safe_name}.{side}{ext}"
             target = output_dir / target_name
 
             shutil.copy2(src, target)

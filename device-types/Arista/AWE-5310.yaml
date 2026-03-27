@@ -4,6 +4,8 @@ model: AWE-5310
 slug: arista-awe-5310
 part_number: AWE-5310
 u_height: 1
+front_image: true
+rear_image: true
 is_full_depth: true
 airflow: front-to-rear
 weight: 9.3

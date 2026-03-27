@@ -7,6 +7,8 @@ u_height: 1
 weight: 21
 weight_unit: lb
 airflow: front-to-rear
+front_image: true
+rear_image: true
 is_full_depth: true
 comments: '[Arista 7050X3 Data Sheet](https://www.arista.com/assets/data/pdf/Datasheets/7050X3-Datasheet.pdf)'
 console-ports:

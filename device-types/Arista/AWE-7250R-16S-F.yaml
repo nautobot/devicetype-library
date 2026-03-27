@@ -4,6 +4,7 @@ model: AWE-7250R-16S-F
 slug: arista-awe-7250r-16s-f
 part_number: AWE-7250R-16S-F
 u_height: 2
+front_image: true
 is_full_depth: true
 airflow: front-to-rear
 weight: 13.6

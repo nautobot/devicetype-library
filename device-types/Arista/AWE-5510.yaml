@@ -4,6 +4,8 @@ model: AWE-5510
 slug: arista-awe-5510
 part_number: AWE-5510
 u_height: 2
+front_image: true
+rear_image: true
 is_full_depth: true
 airflow: front-to-rear
 weight: 13.6
