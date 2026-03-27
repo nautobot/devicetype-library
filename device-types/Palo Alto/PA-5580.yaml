@@ -1,0 +1,96 @@
+---
+manufacturer: Palo Alto
+model: PA-5580
+part_number: PA-5580
+front_image: true
+u_height: 3
+is_full_depth: true
+weight: 79.0
+weight_unit: lb
+airflow: front-to-rear
+comments: '[PA-5500 Series Data Sheet](https://www.paloaltonetworks.com/resources/datasheets/pa-5500-series)'
+console-ports:
+  - name: console
+    type: rj-45
+  - name: usb-console
+    type: usb-c
+interfaces:
+  - name: management-a
+    type: 10gbase-x-sfpp
+    mgmt_only: true
+  - name: management-b
+    type: 10gbase-x-sfpp
+    mgmt_only: true
+  - name: logging-a
+    type: 10gbase-x-sfpp
+  - name: logging-b
+    type: 10gbase-x-sfpp
+  - name: hsci-a
+    type: 400gbase-x-osfp
+  - name: hsci-b
+    type: 400gbase-x-osfp
+  - name: ethernet1/1
+    type: 25gbase-x-sfp28
+  - name: ethernet1/2
+    type: 25gbase-x-sfp28
+  - name: ethernet1/3
+    type: 25gbase-x-sfp28
+  - name: ethernet1/4
+    type: 25gbase-x-sfp28
+  - name: ethernet1/5
+    type: 25gbase-x-sfp28
+  - name: ethernet1/6
+    type: 25gbase-x-sfp28
+  - name: ethernet1/7
+    type: 25gbase-x-sfp28
+  - name: ethernet1/8
+    type: 25gbase-x-sfp28
+  - name: ethernet1/9
+    type: 100gbase-x-qsfp28
+  - name: ethernet1/10
+    type: 100gbase-x-qsfp28
+  - name: ethernet1/11
+    type: 100gbase-x-qsfp28
+  - name: ethernet1/12
+    type: 100gbase-x-qsfp28
+  - name: ethernet1/13
+    type: 100gbase-x-qsfp28
+  - name: ethernet1/14
+    type: 100gbase-x-qsfp28
+  - name: ethernet1/15
+    type: 100gbase-x-qsfp28
+  - name: ethernet1/16
+    type: 100gbase-x-qsfp28
+  - name: ethernet1/17
+    type: 100gbase-x-qsfp28
+  - name: ethernet1/18
+    type: 100gbase-x-qsfp28
+  - name: ethernet1/19
+    type: 100gbase-x-qsfp28
+  - name: ethernet1/20
+    type: 100gbase-x-qsfp28
+  - name: ethernet1/21
+    type: 400gbase-x-qsfpdd
+  - name: ethernet1/22
+    type: 400gbase-x-qsfpdd
+  - name: ethernet1/23
+    type: 400gbase-x-qsfpdd
+  - name: ethernet1/24
+    type: 400gbase-x-qsfpdd
+  - name: ethernet1/25
+    type: 400gbase-x-qsfpdd
+  - name: ethernet1/26
+    type: 400gbase-x-qsfpdd
+  - name: ethernet1/27
+    type: 400gbase-x-qsfpdd
+  - name: ethernet1/28
+    type: 400gbase-x-qsfpdd
+module-bays:
+  - name: PS1
+    position: '1'
+  - name: PS2
+    position: '2'
+  - name: PS3
+    position: '3'
+  - name: PS4
+    position: '4'
