@@ -12,7 +12,7 @@ def validate_device_type(yaml_path: Path, schema_dir: Path) -> list[str]:
     schema_file = schema_dir / "devicetype.json"
     with open(schema_file) as f:
         schema = json.load(f)
-    resolver = RefResolver(f"file://{schema_dir}/", schema)
+    resolver = RefResolver(f"file://{schema_dir.resolve()}/", schema)
     validator = Draft4Validator(schema, resolver=resolver)
     with open(yaml_path) as f:
         data = yaml.safe_load(f)
