@@ -1,0 +1,69 @@
+---
+manufacturer: Palo Alto
+model: PA-7500
+part_number: PA-7500
+comments: '[PA-7500 Data Sheet](https://www.paloaltonetworks.com/resources/datasheets/pa-7500)'
+u_height: 14
+is_full_depth: true
+airflow: front-to-rear
+front_image: true
+subdevice_role: parent
+console-ports:
+  - name: console
+    type: rj-45
+  - name: usb-console
+    type: usb-micro-b
+module-bays:
+  - name: Slot 1
+    position: '1'
+    description: NPC/DPC slot
+  - name: Slot 2
+    position: '2'
+    description: NPC/DPC slot
+  - name: Slot 3
+    position: '3'
+    description: NPC/DPC slot
+  - name: Slot 4
+    position: '4'
+    description: NPC/DPC slot
+  - name: Slot 5
+    position: '5'
+    description: MPC slot (management)
+  - name: Slot 6
+    position: '6'
+    description: NPC/DPC slot
+  - name: Slot 7
+    position: '7'
+    description: NPC/DPC slot
+  - name: Slot 8
+    position: '8'
+    description: NPC/DPC slot
+  - name: Slot 9
+    position: '9'
+    description: NPC/DPC slot
+  - name: SFC 1
+    position: SFC1
+    description: Switch Fabric Card
+  - name: SFC 2
+    position: SFC2
+    description: Switch Fabric Card
+  - name: PS1
+    position: PS1
+  - name: PS2
+    position: PS2
+  - name: PS3
+    position: PS3
+  - name: PS4
+    position: PS4
+  - name: PS5
+    position: PS5
+  - name: PS6
+    position: PS6
+  - name: PS7
+    position: PS7
+  - name: PS8
+    position: PS8
+  - name: PS9
+    position: PS9
+  - name: PS10
+    position: PS10

@@ -1,0 +1,45 @@
+---
+manufacturer: Palo Alto
+model: PA-5450
+part_number: PA-5450
+comments: '[PA-5450 Data Sheet](https://www.paloaltonetworks.com/resources/datasheets/pa-5450)'
+u_height: 5
+is_full_depth: true
+airflow: front-to-rear
+front_image: true
+subdevice_role: parent
+console-ports:
+  - name: console
+    type: rj-45
+  - name: usb-console
+    type: usb-micro-b
+module-bays:
+  - name: MPC
+    position: '1'
+    description: Management Processing Card slot
+  - name: Slot 2
+    position: '2'
+    description: NC/DPC slot
+  - name: Slot 3
+    position: '3'
+    description: DPC slot
+  - name: Slot 4
+    position: '4'
+    description: DPC slot
+  - name: Slot 5
+    position: '5'
+    description: DPC slot
+  - name: Slot 6
+    position: '6'
+    description: DPC slot
+  - name: Slot 7
+    position: '7'
+    description: DPC slot
+  - name: PS1
+    position: PS1
+  - name: PS2
+    position: PS2
+  - name: PS3
+    position: PS3
+  - name: PS4
+    position: PS4
