@@ -1,6 +1,7 @@
 ---
 manufacturer: Palo Alto
 model: PA-455-5G
+slug: palo-alto-pa-455-5g
 part_number: PA-455-5G
 u_height: 0
 subdevice_role: child
@@ -54,6 +55,6 @@ interfaces:
     poe_mode: pse
     poe_type: type3-ieee802.3bt
   - name: cellular1/1
-    type: 5g
+    type: other-wireless
   - name: loopback
     type: virtual

@@ -1,6 +1,7 @@
 ---
 manufacturer: Palo Alto
 model: ION 1200-S-C-NA
+slug: palo-alto-ion-1200-s-c-na
 u_height: 0
 is_full_depth: false
 subdevice_role: child
@@ -56,4 +57,4 @@ interfaces:
     poe_mode: pse
     poe_type: type3-ieee802.3bt
   - name: Cellular
-    type: 4g
+    type: lte

@@ -1,6 +1,7 @@
 ---
 manufacturer: Palo Alto
 model: PA-7500
+slug: palo-alto-pa-7500
 part_number: PA-7500
 comments: '[PA-7500 Data Sheet](https://www.paloaltonetworks.com/resources/datasheets/pa-7500)'
 u_height: 14

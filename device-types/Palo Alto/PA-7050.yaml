@@ -1,13 +1,14 @@
 ---
 manufacturer: Palo Alto
 model: PA-7050
+slug: palo-alto-pa-7050
 part_number: PA-7050
 comments: '[PA-7050 Data Sheet](https://www.paloaltonetworks.com/resources/datasheets/pa-7050)'
 u_height: 9
 is_full_depth: true
 weight: 187.0
 weight_unit: lb
-airflow: side-to-side
+airflow: left-to-right
 front_image: true
 subdevice_role: parent
 console-ports:

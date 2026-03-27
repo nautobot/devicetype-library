@@ -1,6 +1,7 @@
 ---
 manufacturer: Palo Alto
 model: PAN-1RU-SMALL-RACK4
+slug: palo-alto-pan-1ru-small-rack4
 part_number: PAN-1RU-SMALL-RACK4
 u_height: 1
 subdevice_role: parent

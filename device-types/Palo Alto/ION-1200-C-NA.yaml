@@ -1,6 +1,7 @@
 ---
 manufacturer: Palo Alto
 model: ION 1200-C-NA
+slug: palo-alto-ion-1200-c-na
 u_height: 0
 is_full_depth: false
 subdevice_role: child
@@ -25,4 +26,4 @@ interfaces:
   - name: Port 4
     type: 1000base-t
   - name: Cellular
-    type: 4g
+    type: lte

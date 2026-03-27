@@ -1,11 +1,12 @@
 ---
 manufacturer: Palo Alto
 model: PA-560
+slug: palo-alto-pa-560
 part_number: PA-560
 front_image: true
 u_height: 1
 is_full_depth: false
-weight: 10.2
+weight: 10.00
 weight_unit: lb
 airflow: front-to-rear
 comments: '[PA-500 Series Data Sheet](https://www.paloaltonetworks.com/resources/datasheets/pa-500-series)'

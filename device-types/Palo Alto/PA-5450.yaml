@@ -1,6 +1,7 @@
 ---
 manufacturer: Palo Alto
 model: PA-5450
+slug: palo-alto-pa-5450
 part_number: PA-5450
 comments: '[PA-5450 Data Sheet](https://www.paloaltonetworks.com/resources/datasheets/pa-5450)'
 u_height: 5

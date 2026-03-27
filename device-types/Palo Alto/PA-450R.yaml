@@ -1,6 +1,7 @@
 ---
 manufacturer: Palo Alto
 model: PA-450R
+slug: palo-alto-pa-450r
 part_number: PA-450R
 u_height: 0
 subdevice_role: child
