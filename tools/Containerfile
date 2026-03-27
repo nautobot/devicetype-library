@@ -1,0 +1,17 @@
+FROM python:3.14-trixie
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    poppler-utils \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY --from=ghcr.io/astral-sh/uv:latest /uv /usr/local/bin/uv
+
+WORKDIR /app
+COPY pyproject.toml uv.lock* ./
+RUN uv sync --frozen 2>/dev/null || uv sync
+
+COPY src/ src/
+COPY tests/ tests/
+
+ENTRYPOINT ["uv", "run"]
+CMD ["pytest", "-v"]
