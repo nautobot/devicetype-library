@@ -1,0 +1,45 @@
+---
+manufacturer: Palo Alto
+model: PA-540
+part_number: PA-540
+front_image: true
+u_height: 1
+is_full_depth: false
+weight: 5.8
+weight_unit: lb
+airflow: passive
+comments: '[PA-500 Series Data Sheet](https://www.paloaltonetworks.com/resources/datasheets/pa-500-series)'
+console-ports:
+  - name: console
+    type: rj-45
+  - name: usb-console
+    type: usb-c
+power-ports:
+  - name: PS1
+    type: dc-terminal
+  - name: PS2
+    type: dc-terminal
+interfaces:
+  - name: management
+    type: 1000base-t
+    mgmt_only: true
+  - name: ethernet1/1
+    type: 1000base-t
+  - name: ethernet1/2
+    type: 1000base-t
+  - name: ethernet1/3
+    type: 1000base-t
+  - name: ethernet1/4
+    type: 1000base-t
+  - name: ethernet1/5
+    type: 1000base-t
+  - name: ethernet1/6
+    type: 1000base-t
+  - name: ethernet1/7
+    type: 1000base-t
+  - name: ethernet1/8
+    type: 1000base-t
+  - name: ethernet1/9
+    type: 1000base-x-sfp
+  - name: ethernet1/10
+    type: 1000base-x-sfp
