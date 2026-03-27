@@ -4,6 +4,8 @@ model: PA-5430
 part_number: PA-5430
 u_height: 2
 is_full_depth: true
+front_image: true
+rear_image: true
 weight: 15.88
 weight_unit: kg
 airflow: front-to-rear

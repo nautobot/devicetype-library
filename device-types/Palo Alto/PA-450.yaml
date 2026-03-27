@@ -4,6 +4,8 @@ model: PA-450
 part_number: PA-450
 u_height: 1
 is_full_depth: false
+front_image: true
+rear_image: true
 weight: 5
 weight_unit: lb
 airflow: passive

@@ -4,6 +4,8 @@ model: PA-440
 part_number: PA-440
 u_height: 1
 is_full_depth: false
+front_image: true
+rear_image: true
 weight: 5
 weight_unit: lb
 airflow: passive

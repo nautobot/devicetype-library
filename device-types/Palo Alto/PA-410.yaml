@@ -4,6 +4,8 @@ model: PA-410
 part_number: PA-410
 u_height: 1
 is_full_depth: false
+front_image: true
+rear_image: true
 weight: 3.1
 weight_unit: lb
 airflow: passive
