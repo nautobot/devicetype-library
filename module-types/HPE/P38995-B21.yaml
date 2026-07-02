@@ -2,7 +2,7 @@
 manufacturer: HPE
 model: HPE 800W Flex Slot Platinum Hot Plug Supply Kit
 part_number: P38995-B21
-comments: '[HPE 800W Flex Slot Platinum Hot Plug Supply Kit | Hardware Specs | HPE]https://www.hpe.com/psnow/doc/c04346217.html'
+comments: '[HPE 800W Flex Slot Platinum Hot Plug Supply Kit | Hardware Specs | HPE](https://www.hpe.com/psnow/doc/c04346217.html)'
 power-ports:
   - name: Power {module}
     type: iec-60320-c16
