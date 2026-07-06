@@ -1,0 +1,71 @@
+---
+manufacturer: Raritan
+model: PDU-RR900590
+part_number: NX1-F000530
+u_height: 0
+is_full_depth: false
+weight: 15
+weight_unit: kg
+comments: '[PDU-RR900590 Product Selector](https://www.raritan.com/product-selector/pdu-detail/PDU-RR900590)'
+console-ports:
+  - name: Serial
+    type: rj-45
+power-ports:
+  - name: Inlet I1
+    type: iec-60309-2p-e-6h
+power-outlets:
+  - name: C1-1
+    type: iec-60320-c19
+    power_port: Inlet I1
+  - name: C1-2
+    type: iec-60320-c19
+    power_port: Inlet I1
+  - name: C1-3
+    type: iec-60320-c19
+    power_port: Inlet I1
+  - name: C1-4
+    type: iec-60320-c19
+    power_port: Inlet I1
+  - name: C1-5
+    type: iec-60320-c19
+    power_port: Inlet I1
+  - name: C1-6
+    type: iec-60320-c19
+    power_port: Inlet I1
+  - name: C1-7
+    type: iec-60320-c13
+    power_port: Inlet I1
+  - name: C1-8
+    type: iec-60320-c13
+    power_port: Inlet I1
+  - name: C2-1
+    type: iec-60320-c19
+    power_port: Inlet I1
+  - name: C2-2
+    type: iec-60320-c19
+    power_port: Inlet I1
+  - name: C2-3
+    type: iec-60320-c19
+    power_port: Inlet I1
+  - name: C2-4
+    type: iec-60320-c19
+    power_port: Inlet I1
+  - name: C2-5
+    type: iec-60320-c19
+    power_port: Inlet I1
+  - name: C2-6
+    type: iec-60320-c19
+    power_port: Inlet I1
+  - name: C2-7
+    type: iec-60320-c13
+    power_port: Inlet I1
+  - name: C2-8
+    type: iec-60320-c13
+    power_port: Inlet I1
+interfaces:
+  - name: Link
+    type: 1000base-t
+    mgmt_only: true
+  - name: LAN
+    type: 100base-tx
+    mgmt_only: true

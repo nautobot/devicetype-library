@@ -1,0 +1,10 @@
+---
+manufacturer: HPE
+model: Ethernet 10GB Dual Port 562FLR-T Adaptateur
+part_number: 817745-B21
+comments: Ethernet 10GB Dual Port 562FLR-T Adaptateur - 2 Ports 10GB Ethernet, PCI Express x8.
+interfaces:
+  - name: '{module}1'
+    type: 10gbase-t
+  - name: '{module}2'
+    type: 10gbase-t

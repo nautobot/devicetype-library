@@ -1,0 +1,14 @@
+---
+manufacturer: HPE
+model: Broadcom BCM57504 Ethernet 10/25Gb 4-Port SFP28 Adapter
+part_number: P41970-001
+comments: Broadcom BCM57504 Ethernet 10/25Gb 4-Port SFP28 Adapter
+interfaces:
+  - name: '{module}1'
+    type: 25gbase-x-sfp28
+  - name: '{module}2'
+    type: 25gbase-x-sfp28
+  - name: '{module}3'
+    type: 25gbase-x-sfp28
+  - name: '{module}4'
+    type: 25gbase-x-sfp28

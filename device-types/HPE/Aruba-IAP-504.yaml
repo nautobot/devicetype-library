@@ -1,0 +1,28 @@
+---
+manufacturer: HPE
+model: Aruba AP-504
+part_number: R2H22A
+u_height: 0
+is_full_depth: false
+weight: 500
+weight_unit: g
+airflow: passive
+comments: '[Aruba 500 Series Datasheet](https://www.arubanetworks.com/assets/ds/DS_AP500Series.pdf)'
+console-ports:
+  - name: usb-ble
+    type: usb-a
+module-bays:
+  - name: A0
+    position: 'A0'
+  - name: A1
+    position: 'A1'
+power-ports:
+  - name: Power
+    type: dc-terminal
+interfaces:
+  - name: Port 1
+    type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
+  - name: WiFi
+    type: ieee802.11ax

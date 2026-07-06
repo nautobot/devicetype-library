@@ -1,0 +1,25 @@
+---
+manufacturer: Yealink
+model: Yealink SIP-T31P
+part_number: T31P
+u_height: 0
+is_full_depth: false
+weight: 1200
+weight_unit: g
+airflow: passive
+power-ports:
+  - name: Power
+    type: dc-terminal
+interfaces:
+  - name: Internet
+    type: 100base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3af
+  - name: PC
+    type: 100base-t
+  - name: Handset
+    type: 4p4c
+    positions: 1
+  - name: Casque
+    type: 4p4c
+    positions: 1

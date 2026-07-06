@@ -1,0 +1,31 @@
+---
+manufacturer: Snom
+model: Snom D785
+part_number: D785
+u_height: 0
+is_full_depth: false
+weight: 990
+weight_unit: g
+airflow: passive
+power-ports:
+  - name: Power
+    type: dc-terminal
+interfaces:
+  - name: Net
+    type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3af
+  - name: PC
+    type: 1000base-t
+  - name: Handset
+    type: 4p4c
+    positions: 1
+  - name: Casque
+    type: 4p4c
+    positions: 1
+  - name: EHS
+    type: 6p6c
+    positions: 1
+  - name: USB
+    type: usb-a
+    positions: 1

@@ -1,0 +1,29 @@
+---
+manufacturer: TP-Link
+model: ER605W
+slug: tp-link-er605w
+part_number: er605w
+u_height: 0
+is_full_depth: false
+airflow: passive
+comments: '[TP-Link Omada ER605W Datasheet](https://support.omadanetworks.com/en/document/32903/)'
+weight: 960
+weight_unit: g
+power-ports:
+  - name: 12VDC
+    type: dc-terminal
+    maximum_draw: 9
+    description: 12V DC, 1A
+interfaces:
+  - name: wan1
+    type: 1000base-t
+  - name: wan/lan2
+    type: 1000base-t
+  - name: wan/lan3
+    type: 1000base-t
+  - name: lan4
+    type: 1000base-t
+  - name: lan5
+    type: 1000base-t
+  - name: wlan1
+    type: ieee802.11ax

@@ -1,0 +1,75 @@
+---
+manufacturer: HPE
+model: Aruba 8360v2-16Y2C Back-to-Front
+part_number: JL718C
+u_height: 1
+is_full_depth: false
+airflow: rear-to-front
+console-ports:
+  - name: rj45-console
+    type: rj-45
+  - name: usb-console
+    type: usb-micro-b
+  - name: usb-ble
+    type: usb-a
+interfaces:
+  - name: 1/1/1
+    type: 25gbase-x-sfp28
+  - name: 1/1/2
+    type: 50gbase-x-sfp56
+  - name: 1/1/3
+    type: 25gbase-x-sfp28
+  - name: 1/1/4
+    type: 50gbase-x-sfp56
+  - name: 1/1/5
+    type: 25gbase-x-sfp28
+  - name: 1/1/6
+    type: 50gbase-x-sfp56
+  - name: 1/1/7
+    type: 25gbase-x-sfp28
+  - name: 1/1/8
+    type: 50gbase-x-sfp56
+  - name: 1/1/9
+    type: 25gbase-x-sfp28
+  - name: 1/1/10
+    type: 50gbase-x-sfp56
+  - name: 1/1/11
+    type: 25gbase-x-sfp28
+  - name: 1/1/12
+    type: 50gbase-x-sfp56
+  - name: 1/1/13
+    type: 25gbase-x-sfp28
+  - name: 1/1/14
+    type: 50gbase-x-sfp56
+  - name: 1/1/15
+    type: 25gbase-x-sfp28
+  - name: 1/1/16
+    type: 50gbase-x-sfp56
+  - name: 1/1/17
+    type: 100gbase-x-qsfp28
+  - name: 1/1/18
+    type: 100gbase-x-qsfp28
+  - name: mgmt
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+- name: FAN1
+  position: '1'
+  label: ''
+  description: ''
+- name: FAN2
+  position: '2'
+  label: ''
+  description: ''
+- name: FAN3
+  position: '3'
+  label: ''
+  description: ''
+- name: PS1
+  position: '1'
+  label: ''
+  description: ''
+- name: PS2
+  position: '2'
+  label: ''
+  description: ''

@@ -1,0 +1,9 @@
+---
+manufacturer: HPE
+model: HPE 1000W Flex Slot Titanium Hot Plug Power Supply Kit
+part_number: P03178-B21
+comments: HPE 1000W Flex Slot Titanium Hot Plug Power Supply Kit
+power-ports:
+  - name: PS{module}
+    type: iec-60320-c14
+    maximum_draw: 1000

@@ -1,0 +1,36 @@
+---
+manufacturer: Zyxel
+model: VMG3625-T50B
+part_number: 'VMG3625-T50B'
+u_height: 0
+weight: 325
+weight_unit: g
+is_full_depth: false
+airflow: passive
+comments: '[VMG3625-T50B specs](https://download.zyxel.com/VMG3625-T50B/datasheet/VMG3625-T50B_2.pdf)'
+power-ports:
+  - name: Power
+    type: dc-terminal
+    maximum_draw: 12
+    description: 12 V DC, 1.5 A
+interfaces:
+  - name: DSL
+    label: DSL
+    type: xdsl
+  - name: LAN1
+    label: LAN 1
+    type: 1000base-t
+  - name: LAN2
+    label: LAN 2
+    type: 1000base-t
+  - name: LAN3
+    label: LAN 3
+    type: 1000base-t
+  - name: LAN4
+    label: LAN 4
+    type: 1000base-t
+  - name: WAN
+    label: WAN
+    type: 1000base-t  
+  - name: WiFi
+    type: ieee802.11ac

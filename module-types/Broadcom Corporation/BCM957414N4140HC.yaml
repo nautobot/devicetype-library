@@ -1,0 +1,10 @@
+---
+manufacturer: Broadcom Corporation
+model: Broadcom 2-Port 10/25GB PCI-E 3.0 X8 SFP28 OCP3 Network Adapter (HPE OEM)
+part_number: BCM957414N4140HC
+comments: Broadcom 2-Port 10/25GB PCI-E 3.0 X8 SFP28 OCP3 Network Adapter (HPE OEM)
+interfaces:
+  - name: '{module}1'
+    type: 25gbase-x-sfp28
+  - name: '{module}2'
+    type: 25gbase-x-sfp28

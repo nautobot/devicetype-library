@@ -1,0 +1,39 @@
+---
+manufacturer: TP-Link
+model: Archer VR600
+part_number: archer-vr600
+u_height: 0
+is_full_depth: false
+weight: 1000
+weight_unit: g
+airflow: passive
+power-ports:
+  - name: Power
+    type: dc-terminal
+    maximum_draw: 12
+    description: 12 V DC, 1.5 A
+interfaces:
+  - name: DSL
+    label: RJ11 DSL
+    type: xdsl
+  - name: LAN1
+    label: LAN 1
+    type: 1000base-t
+  - name: LAN2
+    label: LAN 2
+    type: 1000base-t
+  - name: LAN3
+    label: LAN 3
+    type: 1000base-t
+  - name: LAN4/WAN
+    label: LAN 4/WAN
+    type: 1000base-t
+  - name: WiFi-2.4G
+    label: WiFi 2.4 GHz
+    type: ieee802.11n
+  - name: WiFi-5G
+    label: WiFi 5 GHz
+    type: ieee802.11ac
+  - name: USB
+    type: usb-a
+    positions: 1

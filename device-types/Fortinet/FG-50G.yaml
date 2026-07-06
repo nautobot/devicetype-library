@@ -1,0 +1,30 @@
+---
+manufacturer: Fortinet
+model: FortiGate 50G
+part_number: FG-50G
+u_height: 1
+is_full_depth: false
+console-ports:
+- name: Console
+  type: rj-45
+power-ports:
+- name: PS1
+  type: nema-5-15p
+  maximum_draw: 14
+  allocated_draw: 12
+interfaces:
+- name: A
+  type: 1000base-t
+  mgmt_only: false
+- name: lan1
+  type: 1000base-t
+  mgmt_only: false
+- name: lan2
+  type: 1000base-t
+  mgmt_only: false
+- name: lan3
+  type: 1000base-t
+  mgmt_only: false
+- name: wan
+  type: 1000base-t
+  mgmt_only: false

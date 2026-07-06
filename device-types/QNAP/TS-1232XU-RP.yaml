@@ -1,0 +1,30 @@
+---
+manufacturer: QNAP
+model: TS-1232XU-RP
+part_number: TS-1232XU-RP-4G
+u_height: 2
+is_full_depth: true
+subdevice_role: ''
+comments: ''
+power-ports:
+- name: PSU 1
+  type: iec-60320-c14
+  maximum_draw: 250
+  allocated_draw: 80
+- name: PSU 2
+  type: iec-60320-c14
+  maximum_draw: 250
+  allocated_draw: 80
+interfaces:
+- name: eth1
+  type: 1000base-t
+  mgmt_only: false
+- name: eth2
+  type: 1000base-t
+  mgmt_only: false
+- name: eth3
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+- name: eth4
+  type: 10gbase-x-sfpp
+  mgmt_only: false

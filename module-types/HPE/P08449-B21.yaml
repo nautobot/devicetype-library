@@ -1,0 +1,14 @@
+---
+manufacturer: HPE
+model: Intel I350-T4 1GB Quad-Port Base-T OCP3 Adapter
+part_number: P08449-B21
+comments: Intel I350-T4 1GB Quad-Port Base-T OCP3 Adapter
+interfaces:
+  - name: '{module}1'
+    type: 1000base-t
+  - name: '{module}2'
+    type: 1000base-t
+  - name: '{module}3'
+    type: 1000base-t
+  - name: '{module}4'
+    type: 1000base-t
