@@ -1,0 +1,44 @@
+---
+manufacturer: MikroTik
+model: CRS510-8XS-2XQ-IN
+part_number: CRS510-8XS-2XQ-IN
+is_full_depth: false
+airflow: front-to-rear
+comments: "[CRS510-8XS-2XQ-IN](https://mikrotik.com/product/crs510_8xs_2xq_in#fndtn-downloads). Careful, there is only qsfp28-1-1 and qsfp28-2-1 interfaces for 100Gb, don't forget to add the other if you use breakout cables."
+u_height: 1
+interfaces:
+  - name: ether1
+    type: 100base-t
+    mgmt_only: true
+  - name: sfp28-1
+    type: 25gbase-x-sfp28
+  - name: sfp28-2
+    type: 25gbase-x-sfp28
+  - name: sfp28-3
+    type: 25gbase-x-sfp28
+  - name: sfp28-4
+    type: 25gbase-x-sfp28
+  - name: sfp28-5
+    type: 25gbase-x-sfp28
+  - name: sfp28-6
+    type: 25gbase-x-sfp28
+  - name: sfp28-7
+    type: 25gbase-x-sfp28
+  - name: sfp28-8
+    type: 25gbase-x-sfp28
+  - name: qsfp28-1-1
+    type: 100gbase-x-qsfp28
+  - name: qsfp28-2-1
+    type: 100gbase-x-qsfp28
+console-ports:
+  - name: serial0
+    type: rj-45
+  - name: USB
+    type: usb-a
+power-ports:
+  - name: power1
+    type: iec-60320-c14
+    maximum_draw: 45
+  - name: power2
+    type: iec-60320-c14
+    maximum_draw: 45
