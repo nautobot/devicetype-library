@@ -1,0 +1,23 @@
+name: Close stale pull requests
+
+on:
+  schedule:
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v11
+        with:
+          # Mark PRs as stale after 11 months of inactivity.
+          days-before-pr-stale: 335
+          # Close PRs after 30 days of being marked stale (1 year of inactivity).
+          days-before-pr-close: 30
+          stale-pr-label: "stale"
+          stale-pr-message: "This PR is now considered stale and will be closed in 30 days if no activity is detected."
+          close-pr-message: "This PR was closed due to inactivity. Feel free to reopen it or create a new one if you would like to continue working on it."
+          # Do not mark issues as stale or close automatically (for now)
+          days-before-issue-stale: -1
+          days-before-issue-close: -1
