@@ -1,0 +1,41 @@
+---
+manufacturer: Netgear
+model: RNR-12A
+part_number: RNR-12A
+u_height: 2
+is_full_depth: true
+comments: >-
+  ReadyNAS 3220/4220-family 2U 12-bay rackmount chassis. Physical dimensions
+  are approximately 707 x 445 x 88 mm and weight is approximately 11.96 kg
+  without disks. This definition includes the rear DE-9 COM port and PCIe
+  expansion bay 1 shown on the chassis. Verify any installed PCIe network
+  adapter separately before adding its interfaces.
+console-ports:
+  - name: COM
+    type: de-9
+    description: Rear serial COM port
+power-ports:
+  - name: PSU 1
+    type: iec-60320-c14
+    maximum_draw: 550
+    description: Redundant hot-swappable AC power supply 1
+  - name: PSU 2
+    type: iec-60320-c14
+    maximum_draw: 550
+    description: Redundant hot-swappable AC power supply 2
+interfaces:
+  - name: LAN 1
+    type: 1000base-t
+    description: 1GbE RJ45 LAN port 1
+  - name: LAN 2
+    type: 1000base-t
+    description: 1GbE RJ45 LAN port 2
+  - name: LAN 3
+    type: 1000base-t
+    description: 1GbE RJ45 LAN port 3
+  - name: LAN 4
+    type: 1000base-t
+    description: 1GbE RJ45 LAN port 4
+module-bays:
+  - name: PCIe Module 1
+    position: '1'
