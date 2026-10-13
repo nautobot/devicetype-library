@@ -22,6 +22,12 @@
         "is_full_depth": {
             "type": "boolean"
         },
+        "depth": {
+            "$ref": "reusable.json#/definitions/depth"
+        },
+        "depth_unit": {
+            "$ref": "reusable.json#/definitions/depth-unit"
+        },
         "airflow": {
             "$ref": "generated_schema.json#/definitions/airflow"
         },
@@ -111,5 +117,8 @@
         }
     },
     "required": ["manufacturer", "model", "slug"],
+    "dependencies": {
+        "depth": ["depth_unit"]
+    },
     "additionalProperties": false
 }
