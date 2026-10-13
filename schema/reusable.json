@@ -2,6 +2,17 @@
   "type": "object",
   "additionalProperties": false,
   "definitions": {
+    "depth": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "depth-unit": {
+      "type": "string",
+      "enum": [
+        "mm",
+        "in"
+      ]
+    },
     "weight": {
       "type": "number",
       "minimum": 0,

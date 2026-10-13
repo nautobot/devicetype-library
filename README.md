@@ -39,6 +39,19 @@ The following fields may **optionally** be declared:
 
 > :test_tube: **Example**: `is_full_depth: false`
 
+- `depth`: The physical depth of the device type, measured from front to back. When set, `depth_unit` must also be set. (**Default: None**)
+  - Type: Integer (minimum of `0`)
+
+> :test_tube: **Example**: `depth: 600`
+
+- `depth_unit`: The unit of measurement for `depth`. (**Default: None**)
+  - Type: String
+  - Options:
+    - `mm`
+    - `in`
+
+> :test_tube: **Example**: `depth_unit: mm`
+
 - `front_image`: Indicates that this device has a front elevation image within the [elevation-images](elevation-images/) folder. (**Default: None**)
   - NOTE: The elevation images folder requires the same folder name as this device. The file name must also adhere to `<model>.front.<extension>`. The extension must be a valid image extension and the image file must be a valid image. Some examples are `bmp`, `gif`, `jpeg`, `png`, `tiff`.
   - Type: Boolean
